@@ -1,0 +1,41 @@
+#header {
+    position: relative;
+    background: #ffffff;
+    padding: 5em 0 4em 0;
+    text-align: center;
+
+}
+
+#header h1 {
+    font-family: "Source Sans 3", sans-serif; 
+    color: #252122;
+    font-weight: 900;
+    font-size: 2.5em;
+    letter-spacing: -0.035em;
+    line-height: 1;
+    cursor: pointer;
+
+}
+
+
+
+h1 {
+    font-size: 1.5em;
+    margin: 0em 0em 0em 0em;
+   
+
+}
+
+body {
+    background-color: #252122;
+    margin: 0em 0em 0em 0em;
+}
+
+a {
+    text-decoration: none; 
+    color: black; 
+}
+
+a:hover {
+    color: black; 
+}
